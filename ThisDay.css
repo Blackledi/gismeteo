@@ -1,0 +1,17 @@
+.infoDay{
+    margin-left: 20px;
+    
+}
+.temp{
+    font-size: 95px;
+    color: #4793FF;
+    
+    
+}
+.today{
+    font-size: 40px;
+}
+.city_thisday{
+    font-size: 30.48px;
+    color:#939CB0;
+}
